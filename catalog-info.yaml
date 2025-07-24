@@ -2,11 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: inspect-query-service
-  description: A sample Spring Boot service deployed in AWS K8s
   annotations:
-    bitbucket.org/project-slug: fsi/https://bitbucket.org/phenompeople/inspect-query-service/src/master/
-    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: pharikrishna/inspect-query-service
 spec:
   type: service
   lifecycle: production
