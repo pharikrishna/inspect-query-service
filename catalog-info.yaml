@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: pharikrishna/inspect-query-service
     backstage.io/techdocs-ref: dir:.
+    backstage.io/scaffolder-template: promote-to-qa
 spec:
   type: service
   lifecycle: production
