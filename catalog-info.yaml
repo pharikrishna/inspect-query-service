@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: inspect-query-service
-  description: Handles querying operations for inspection platform
+  description: Spring Boot microservice for inspection queries
   annotations:
     github.com/project-slug: pharikrishna/inspect-query-service
     backstage.io/techdocs-ref: dir:.
